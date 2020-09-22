@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
 
     private ZXingScannerView scannerView;
     private static final int REQUEST_CAMERA = 1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

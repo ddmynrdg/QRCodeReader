@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QR Kod Tarayıcı</string>
+    <string name="start_stop_reader">Start/Stop reader</string>
+    <string name="restart_activity">Restart activity</string>
+    <string name="click_to_scan">Click to scan</string>
+    <string name="permission_already_granted">İzin Verildi</string>
+    <string name="now_you_can_access_camera">İzin Verildi, Artık kameraya erişebilirsiniz</string>
+    <string name="you_must_accept_two_leaves">İki izini de kabul etmelisiniz</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="scan_result">Tarama Sonucu</string>
+    <string name="visit">Ziyaret Et</string>
+</resources>
